@@ -86,4 +86,7 @@ font-size: 13px;
     #two{
         width: 50%;
     }
+    button{
+        padding: 13px 20px !important;
+    }
 }
